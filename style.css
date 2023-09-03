@@ -1,0 +1,10 @@
+div{
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    text-align: center;
+    border-radius: 50%;
+    margin: 150px auto;
+    color: rgb(11, 6, 6);
+    line-height: 250px;
+}
